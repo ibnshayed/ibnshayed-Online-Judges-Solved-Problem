@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4096d98-7d2a-4a62-8f55-979c1e4c062f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA10055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA100783.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA11044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA1172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA11727.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA13025.java" afterDir="false" />
-    </list>
+    <list default="true" id="f4096d98-7d2a-4a62-8f55-979c1e4c062f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UVA/UVA1172.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <state relative-caret-position="313">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding>
                 <element signature="e#0#566#0" expanded="true" />
               </folding>
@@ -74,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/UVA/UVA11727.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="747">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#0#680#0" expanded="true" />
               </folding>
@@ -82,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UVA/UVA11044.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            <state relative-caret-position="288">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -127,8 +118,8 @@
         <option value="$PROJECT_DIR$/src/UVA/UVA100783.java" />
         <option value="$PROJECT_DIR$/src/UVA/Test.java" />
         <option value="$PROJECT_DIR$/src/UVA/UVA13025.java" />
-        <option value="$PROJECT_DIR$/src/UVA/UVA11727.java" />
         <option value="$PROJECT_DIR$/src/UVA/UVA11044.java" />
+        <option value="$PROJECT_DIR$/src/UVA/UVA11727.java" />
       </list>
     </option>
   </component>
@@ -175,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553524015775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553524021316" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,12 +276,12 @@
       <updated>1553507656947</updated>
       <workItem from="1553507659295" duration="11000" />
       <workItem from="1553508085497" duration="847000" />
-      <workItem from="1553510579939" duration="9436000" />
+      <workItem from="1553510579939" duration="9882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10294000" />
+    <option name="totallyTimeSpent" value="10740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -364,26 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UVA/UVA1172.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UVA/UVA10055.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UVA/UVA100783.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -409,7 +380,7 @@
     <entry file="file://$PROJECT_DIR$/src/UVA/UVA11727.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#680#0" expanded="true" />
           </folding>
@@ -418,10 +389,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UVA/UVA11044.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        <state relative-caret-position="288">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UVA/UVA10055.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UVA/UVA1172.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#566#0" expanded="true" />
           </folding>
         </state>
       </provider>
