@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4096d98-7d2a-4a62-8f55-979c1e4c062f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/CF158B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/CF1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodeForces/CodeForces71A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA10071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA1124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA12461.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UVA/UVA12478.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OJSolved/UVA/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OJSolved/UVA/UVA11044.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OJSolved/UVA/UVA11044.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OJSolved/UVA/UVA11727.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OJSolved/UVA/UVA11727.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UVA/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UVA/UVA11044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UVA/UVA11044.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodeForces/CF1A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="320">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -157,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1380" />
@@ -172,35 +162,14 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="OJSolved" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJSolved" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OJSolved" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJSolved" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OJSolved" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OJSolved" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553576286506" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553576366332" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -312,18 +281,25 @@
       <workItem from="1553508085497" duration="847000" />
       <workItem from="1553510579939" duration="9928000" />
       <workItem from="1553524908965" duration="1403000" />
-      <workItem from="1553562032703" duration="12537000" />
+      <workItem from="1553562032703" duration="12792000" />
     </task>
+    <task id="LOCAL-00001" summary="ibnshayed">
+      <created>1553576362651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553576362652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24726000" />
+    <option name="totallyTimeSpent" value="24981000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,7 +309,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27427962" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27427962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,6 +334,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ibnshayed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ibnshayed" />
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
     <option name="sizePresets">
@@ -491,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodeForces/CF1A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="320">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
         </state>
       </provider>
     </entry>
