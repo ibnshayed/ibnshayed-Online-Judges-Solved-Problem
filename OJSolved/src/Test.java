@@ -1,5 +1,3 @@
-package UVA;
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -17,6 +15,8 @@ public class Test {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(now);
         System.out.println(calendar.get(Calendar.DAY_OF_WEEK)); // the day of the week in numerical format
+        System.out.println(Math.ceil(9.5));
+        System.out.println(Math.floor(9.5));
 
     }
 }

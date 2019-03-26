@@ -46,7 +46,8 @@ class UVA11044 {
         for(int i = 1; i<=testCase; i++){
             int n = in.nextInt();
             int m = in.nextInt();
-            System.out.println(n/3 * m/3);
+
+            System.out.println((n/3) * (m/3));
         }
     }
 
